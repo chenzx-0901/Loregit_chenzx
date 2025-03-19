@@ -1,5 +1,5 @@
 ## 关键工具技术栈
-Midjourney V6/Stable Diffusion XL/DALL·E 3/Adobe Firefly
+Midjourney V6/Stable Diffusion XL/DALL·E 3/Adobe Firefly  
 国内游戏大厂有内部大模型数据库和自研软件
 
 ## 生成质量与风格特点
@@ -15,13 +15,13 @@ Midjourney V6/Stable Diffusion XL/DALL·E 3/Adobe Firefly
 
 ## Stable Diffusion进阶用法
 ### ControlNet
-论文 https://arxiv.org/abs/2302.05543
-github地址 https://github.com/lllyasviel/ControlNet
-使用教程：
-https://zhuanlan.zhihu.com/p/619721909
-https://www.zhihu.com/column/c_1625633809227010048
+论文 https://arxiv.org/abs/2302.05543  
+github地址 https://github.com/lllyasviel/ControlNet  
+使用教程：  
+https://zhuanlan.zhihu.com/p/619721909  
+https://www.zhihu.com/column/c_1625633809227010048  
 
 ### LoRA
-github地址 https://github.com/bmaltais/kohya_ss
-教程：
-https://www.zhihu.com/column/c_1842567093255548929
+github地址 https://github.com/bmaltais/kohya_ss  
+教程：  
+https://www.zhihu.com/column/c_1842567093255548929  
